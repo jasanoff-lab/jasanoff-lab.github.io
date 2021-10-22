@@ -4,11 +4,11 @@
     "papers": [
         {
        "citation":  "Wei H, Wisniowska A, Fan J, Harvey P, Li Y, Wu V, Hansen EC, Zhang J, Frey AM, Adam G, Frenkel AI, Bawendi MG, Jasanoff A. (2021) “Single-nanometer iron oxide nanoparticles as tissue-permeable MRI contrast agents.” Proc Natl Acad Sci U S A 118: 42.",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/34597714/"
+        "url": "https://www.pnas.org/content/118/42/e2102340118"
       },
       {
         "citation":  "Wei H, Frey AM, Jasanoff A. (2021) “Molecular fMRI of neurochemical signaling.” J Neurosci Methods 364:109372.",
-        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0165027021003071?via%3Dihub"  
+        "url": "https://pubmed.ncbi.nlm.nih.gov/34597714/"  
       }
     ],
   }, 
