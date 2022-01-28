@@ -4,22 +4,22 @@
     "bio": "Alan is interested in mechanistic studies of neural function using brain-wide measurements and on tool development for molecular neuroimaging.",
     "img": "/assets/images/people/AlanJasanoff.jpg",
     "email": "jasanoff@mit.edu"
-  },
-  {
+   },
+   {
     "name": "Andrew Becker",
     "bio": "Andrew focuses on experimental procedures that permit combined behavior and imaging studies in rodents.",
     "img": "/assets/images/people/AndrewBecker.jpg"
-   },
+    },
     {
     "name": "Brenna Stallings",
     "bio": "Brenna specializes in handling and training rodents and nonhuman primate subjects for next-generation fMRI experiments.",
     "img": "/assets/images/people/BrennaStallings.jpg"
-   },
+    },
     {
     "name": "Gregory Thiabaud, PhD",
     "bio": "Greg works on design and synthesis of novel MRI sensors based on a variety of paramagnetic chelator complexes.",
     "img": "/assets/images/people/GregThiabaud.jpg"
-   },
+    },
     {
     "name": "He Wei, PhD",
     "bio": "He is a nanotechnology expert interested in applying nanoparticle-based imaging agents to measure molecular targets in the brain.",
