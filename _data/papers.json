@@ -2,10 +2,10 @@
 "2022": {
     "img": "/assets/images/papers/2022.jpg",
     "papers": [
-        {
-       "citation":  "Ghosh S, Li N,Schwalm M, Bartelle B, Xie T, Daher J, Singh U, Xie K, DiNapoli N, Evans N, Chung K, Jasanoff A. (2022) “Functional dissection of neural circuitry using a genetic reporter for fMRI” Nat Neurosci 25: 390-398.",
+       {
+      "citation":  "Ghosh S, Li N,Schwalm M, Bartelle B, Xie T, Daher J, Singh U, Xie K, DiNapoli N, Evans N, Chung K, Jasanoff A. (2022) “Functional dissection of neural circuitry using a genetic reporter for fMRI” Nat Neurosci 25: 390-398.",
         "https://pubmed.ncbi.nlm.nih.gov/35241803/"   
-        }
+      }
     ],
   }, 
  "2021": {
