@@ -31,16 +31,17 @@
     "img": "/assets/images/people/Hippolyte.jpg"
      },
      {
+    "name": "Itay Fayer",
+    "bio": "Itay is interested in studying brain-periphery interactions using a range of MRI-based readouts in animals.",
+    "img": "/assets/images/people/ItayFayer.jpg",
+    "email": "itayfay@mit.edu"
+    },
+    {
+       
     "name": "Jacob Simon, PhD",
     "bio": "Jacob works on a novel imaging agent architecture for ultrasensitive detection of neural signaling molecules.",
     "img": "/assets/images/people/JacobSimon.jpg",
     "email": "jcsimon@mit.edu"
-    },
-    {
-    "name": "Kei Yamaura, PhD",
-    "bio": "Kei works on engineering paramagnetic probes for sensing a variety of neurotransmitters in the brain.",
-    "img": "/assets/images/people/KeiYamaura.jpg",
-    "email": "yamaurak@mit.edu"
     },
     {
     "name": "Kevin Chung",
