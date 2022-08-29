@@ -61,7 +61,7 @@
     {
     "name": "Miriam Schwalm, PhD",
     "bio": "Miriam focuses on application of novel imaging and recording techniques to study the brain-wide dynamics of neural activity.",
-    "img": "/assets/images/people/MiriamSchwalm.jpg"
+    "img": "/assets/images/people/MiriamSchwalm.jpg",
     },
     {
     "name": "Nishanth Tirukoti, PhD",
@@ -84,21 +84,21 @@
     {
     "name": "Sayani Das, PhD",
     "bio": "Sayani is an expert in chemical probe design who works on contrast agents for ultrasensitive molecular neuroimaging.",
-    "img": "/assets/images/people/SayaniDas.jpg"   
+    "img": "/assets/images/people/SayaniDas.jpg",   
     },
     {
     "name": "Valerie Phi Van, MD",
     "bio": "Valerie is a radiologist and preclinical MRI expert who is interested in using genetic probes to study molecular processes in animal models.",
-    "img": "/assets/images/people/ValeriePhivan.jpg"  
+    "img": "/assets/images/people/ValeriePhivan.jpg",  
     },
     {
     "name": "Ying Jiang, PhD",
     "bio": "Ying works on development and application of neural circuit-specific imaging tools for understanding brain function at a systems level.",
-    "img": "/assets/images/people/YingJiang.jpg"
+    "img": "/assets/images/people/YingJiang.jpg",
     },
     {
     "name": "Yuting Ke, PhD",
     "bio": "Yuting works on genetically encoded fMRI probes and applying them to cellular and circuit-level neuroimaging in animals.",
-    "img": "/assets/images/people/YutingKe.jpeg"
+    "img": "/assets/images/people/YutingKe.jpeg",
   }
 ]
