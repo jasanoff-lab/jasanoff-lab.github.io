@@ -31,21 +31,16 @@
     "img": "/assets/images/people/HeWei.jpg"
      },
      {
-    "name": "Hippolyte Bournisien de Valmont",
-    "bio": "Hippolyte is interested in brain-wide analyses of neural mechanisms that underlie mammalian cognitive function.",
-    "img": "/assets/images/people/Hippolyte.jpg"
-     },
-     {
     "name": "Itay Fayer",
     "bio": "Itay is interested in studying brain-periphery interactions using a range of MRI-based readouts in animals.",
     "img": "/assets/images/people/ItayFayer.jpg",
     "email": "itayfay@mit.edu"
     },
     {
-    "name": "Jacob Simon, PhD",
-    "bio": "Jacob works on a novel imaging agent architecture for ultrasensitive detection of neural signaling molecules.",
-    "img": "/assets/images/people/JacobSimon.jpg",
-    "email": "jcsimon@mit.edu"
+    "name": "Jeong Hoon (JK) Ko, PhD",
+    "bio": "JK is exploring noninvasive delivery strategies for applying molecular imaging probes in mammalian brains.",
+    "img": "/assets/images/people/JKKo.jpg",
+    "email": "jk16@mit.edu"
     },
     {
     "name": "Kevin Chung",
@@ -69,6 +64,10 @@
     "img": "/assets/images/people/MiriamSchwalm.jpg"
   },
     {
+    "name": "Nishanth Tirukoti, PhD",
+    "bio": "Nishanth works on engineered protein reporters for monitoring neural activity and plasticity-related processes in the brain.",
+    "img": "/assets/images/people/NishanthTirukoti"
+      
     "name": "Robert Ohlendorf, PhD",
     "bio": "Robert works on developing probes that harness physiological processes to produce novel readouts in functional and molecular imaging.",
     "img": "/assets/images/people/RobertOhlendorf.jpg",
