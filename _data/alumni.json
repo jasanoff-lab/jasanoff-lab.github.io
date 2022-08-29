@@ -22,6 +22,11 @@
     "link": "http://www.bioprotean.org/"
   },
   {
+    "name": "Sarah Bricault",
+    "title": "Postdoctoral Researcher",
+    "affiliation": "Harvard/MGH",
+  },
+  { 
      "name": "Lili Cai",
     "title": "Data Scientist",
     "affiliation": "Nielsen",
@@ -131,6 +136,10 @@
      "link": "https://shapirolab.caltech.edu/"
   },
   {
+    "name": "Jacob Simon",
+    "title": "Postdoctoral Researcher",
+    "affiliation": "Stanford University",
+    
      "name": "Adrian Slusarczyk",
     "title": "Strategist",
     "affiliation": "LEK Consulting",
