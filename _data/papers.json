@@ -3,15 +3,15 @@
      "img": "/assets/images/papers/2022.jpg",
       "papers": [
       {
-         "citation":  "Simon J, Schwalm M, Morstein J, Trauner D, Jasanoff A (2022) “A liposomal nanosensor architecture enables in vivo photon detection and mapping in MRI” Nat Biomed Eng, accepted.",
+         "citation":  "Simon J, Schwalm M, Morstein J, Trauner D, Jasanoff A (2022) “A liposomal nanosensor architecture enables in vivo photon detection and mapping in MRI.” Nat Biomed Eng, accepted.",
         "url": ""   
       },
       {
-         "citation":  "Ghosh S, Barandov A, Jasanoff A (2022) “Probing nitric oxide signaling using molecular MRI” Free Radic Biol Med Sept 6:S0891-5849(22)00577-9.",
+         "citation":  "Ghosh S, Barandov A, Jasanoff A (2022) “Probing nitric oxide signaling using molecular MRI.” Free Radic Biol Med Sept 6:S0891-5849(22)00577-9.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/36084790/"   
       },
       {
-         "citation":  "Ghosh S, Li N, Schwalm M, Bartelle B, Xie T, Daher J, Singh U, Xie K, DiNapoli N, Evans N, Chung K, Jasanoff A (2022) “Functional dissection of neural circuitry using a genetic reporter for fMRI” Nat Neurosci 25: 390-398.",
+         "citation":  "Ghosh S, Li N, Schwalm M, Bartelle B, Xie T, Daher J, Singh U, Xie K, DiNapoli N, Evans N, Chung K, Jasanoff A (2022) “Functional dissection of neural circuitry using a genetic reporter for fMRI.” Nat Neurosci 25: 390-398.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/35241803/"   
       }
     ],
@@ -20,7 +20,7 @@
     "img": "/assets/images/papers/2021-3.jpg",
     "papers": [
         {
-       "citation":  "Desai M, Sharma J, Slusarczyk AL, Chapin AA, Ohlendorf R, Wisniowska A, Sur M, Jasanoff A (2021) “Hemodynamic molecular imaging of tumor-associated enzyme activity in the living brain” Elife 10: e70237.",
+       "citation":  "Desai M, Sharma J, Slusarczyk AL, Chapin AA, Ohlendorf R, Wisniowska A, Sur M, Jasanoff A (2021) “Hemodynamic molecular imaging of tumor-associated enzyme activity in the living brain.” Elife 10: e70237.",
         "url": "https://elifesciences.org/articles/70237"         
       },
       {
