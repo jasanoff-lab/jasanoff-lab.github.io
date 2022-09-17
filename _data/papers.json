@@ -2,8 +2,16 @@
  "2022": {
      "img": "/assets/images/papers/2022.jpg",
       "papers": [
-          {
-         "citation":  "Ghosh S, Li N,Schwalm M, Bartelle B, Xie T, Daher J, Singh U, Xie K, DiNapoli N, Evans N, Chung K, Jasanoff A. (2022) “Functional dissection of neural circuitry using a genetic reporter for fMRI” Nat Neurosci 25: 390-398.",
+      {
+         "citation":  "Simon J, Schwalm M, Morstein J, Trauner D, Jasanoff A. (2022) “A liposomal nanosensor architecture enables in vivo photon detection and mapping in MRI” Nat Biomed Eng, accepted.",
+        "url": ""   
+      }
+      {
+         "citation":  "Ghosh S, Barandov A, Jasanoff A (2022) “Probing nitric oxide signaling using molecular MRI” Free Radic Biol Med Sept 6:S0891-5849(22)--577-9.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36084790/"   
+      }
+      {
+         "citation":  "Ghosh S, Li N, Schwalm M, Bartelle B, Xie T, Daher J, Singh U, Xie K, DiNapoli N, Evans N, Chung K, Jasanoff A (2022) “Functional dissection of neural circuitry using a genetic reporter for fMRI” Nat Neurosci 25: 390-398.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/35241803/"   
       }
     ],
@@ -12,19 +20,19 @@
     "img": "/assets/images/papers/2021-3.jpg",
     "papers": [
         {
-       "citation":  "Desai M, Sharma J,Slusarczyk AL, Chapin AA, Ohlendorf R, Wisniowska A,  Sur M, Jasanoff A. (2021) “Hemodynamic molecular imaging of tumor-associated enzyme activity in the living brain” Elife 10: e70237.",
+       "citation":  "Desai M, Sharma J,Slusarczyk AL, Chapin AA, Ohlendorf R, Wisniowska A,  Sur M, Jasanoff A (2021) “Hemodynamic molecular imaging of tumor-associated enzyme activity in the living brain” Elife 10: e70237.",
         "url": "https://elifesciences.org/articles/70237"         
       },
       {
-       "citation":  "Wei H, Wisniowska A, Fan J, Harvey P, Li Y, Wu V, Hansen EC, Zhang J, Frey AM, Adam G, Frenkel AI, Bawendi MG, Jasanoff A. (2021) “Single-nanometer iron oxide nanoparticles as tissue-permeable MRI contrast agents.” Proc Natl Acad Sci U S A 118: 42.",
+       "citation":  "Wei H, Wisniowska A, Fan J, Harvey P, Li Y, Wu V, Hansen EC, Zhang J, Frey AM, Adam G, Frenkel AI, Bawendi MG, Jasanoff A (2021) “Single-nanometer iron oxide nanoparticles as tissue-permeable MRI contrast agents.” Proc Natl Acad Sci U S A 118: 42.",
         "url": "https://www.pnas.org/content/118/42/e2102340118"
       },
       {
-       "citation":  "Antonini MJ, Sahasrabudhe A, Tabet A, Schwalm M, Rosenfeld D, Garwood I, Park J, Loke G, Khudiyev T, Kanik M, Corbin N, Canales A, Jasanoff A, Fink Y, Anikeeva P. (2021) “Customizing MRI-Compatible Multifunctional Neural Interfaces through Fiber Drawing.” Adv Funct Mater 43:2104857",
+       "citation":  "Antonini MJ, Sahasrabudhe A, Tabet A, Schwalm M, Rosenfeld D, Garwood I, Park J, Loke G, Khudiyev T, Kanik M, Corbin N, Canales A, Jasanoff A, Fink Y, Anikeeva P (2021) “Customizing MRI-Compatible Multifunctional Neural Interfaces through Fiber Drawing.” Adv Funct Mater 43:2104857",
         "url": "https://pubmed.ncbi.nlm.nih.gov/34924913/"
       },
       {
-        "citation":  "Wei H, Frey AM, Jasanoff A. (2021) “Molecular fMRI of neurochemical signaling.” J Neurosci Methods 364:109372.",
+        "citation":  "Wei H, Frey AM, Jasanoff A (2021) “Molecular fMRI of neurochemical signaling.” J Neurosci Methods 364:109372.",
         "url": "https://pubmed.ncbi.nlm.nih.gov/34597714/"  
       }
     ],
@@ -33,27 +41,27 @@
     "img": "/assets/images/papers/2020.jpg",
     "papers": [
         {
-       "citation":  "Nguyen HV, Detappe A, Harvey P, Gallagher N, Mathieu C, Agius MP, Zavidij O, Wang W, Jiang Y, Rajca A, Jasanoff A, Ghobrial IM, Ghoroghchian PP, Johnson JA. (2020) “Pro-organic radical contrast agents (pro-ORCAs) for real-time MRI of pro-drug activation in biological systems.” Poly Chem 11: 4768.",
+       "citation":  "Nguyen HV, Detappe A, Harvey P, Gallagher N, Mathieu C, Agius MP, Zavidij O, Wang W, Jiang Y, Rajca A, Jasanoff A, Ghobrial IM, Ghoroghchian PP, Johnson JA (2020) “Pro-organic radical contrast agents (pro-ORCAs) for real-time MRI of pro-drug activation in biological systems.” Poly Chem 11: 4768.",
         "url": "https://pubs.rsc.org/en/content/articlelanding/2020/PY/D0PY00558D#!divAbstract"
       },
       {
-        "citation":  "Barandov A, Ghosh S, Li N, Bartelle B, Daher J, Pegis M, Collins, H, Jasanoff A. (2020) “Molecular Magnetic Resonance Imaging of Nitric Oxide in Biological Systems.” ACS Sens 5: 1674.",
+        "citation":  "Barandov A, Ghosh S, Li N, Bartelle B, Daher J, Pegis M, Collins, H, Jasanoff A (2020) “Molecular Magnetic Resonance Imaging of Nitric Oxide in Biological Systems.” ACS Sens 5: 1674.",
         "url": "https://pubs.acs.org/doi/10.1021/acssensors.0c00322"
       },
       {
-        "citation":  "Ohlendorf R, Wisniowska A, Desai M, Barandov A, Slusarczyk A, Li N, Jasanoff A. (2020) “Target-responsive vasoactive probes for ultrasensitive molecular imaging.” Nat Commun 11: 2399.",
+        "citation":  "Ohlendorf R, Wisniowska A, Desai M, Barandov A, Slusarczyk A, Li N, Jasanoff A (2020) “Target-responsive vasoactive probes for ultrasensitive molecular imaging.” Nat Commun 11: 2399.",
         "url": "https://www.nature.com/articles/s41467-020-16118-7"
       },
       {
-        "citation":  "Li N, Jasanoff A. (2020) “Local and global consequences of reward-evoked striatal dopamine release.” Nature 580: 239.",
+        "citation":  "Li N, Jasanoff A (2020) “Local and global consequences of reward-evoked striatal dopamine release.” Nature 580: 239.",
         "url": "https://www.nature.com/articles/s41586-020-2158-3"
       },
       {
-         "citation":  "Brewster JT 2nd, Thiabaud GD, Harvey P, Zafar H, Reuther JF, Dell'Acqua S, Johnson RM, Root HD, Metola P, Jasanoff A, Casella L, Sessler JL. (2020) “Metallotexaphyrins as MRI-Active Catalytic Antioxidants for Neurodegenerative Disease: A Study on Alzheimer’s Disease.” Chem 6: 703.",
+         "citation":  "Brewster JT 2nd, Thiabaud GD, Harvey P, Zafar H, Reuther JF, Dell'Acqua S, Johnson RM, Root HD, Metola P, Jasanoff A, Casella L, Sessler JL (2020) “Metallotexaphyrins as MRI-Active Catalytic Antioxidants for Neurodegenerative Disease: A Study on Alzheimer’s Disease.” Chem 6: 703.",
         "url": "https://www.sciencedirect.com/science/article/pii/S2451929419305637?via%3Dihub"
       },
       {
-         "citation":  "Bricault S, Barandov A, Harvey P, DeTienne E, Hai A, Jasanoff A. (2020) “Image-guided neural activity manipulation with a paramagnetic drug.” Nat Commun 11: 136.",
+         "citation":  "Bricault S, Barandov A, Harvey P, DeTienne E, Hai A, Jasanoff A (2020) “Image-guided neural activity manipulation with a paramagnetic drug.” Nat Commun 11: 136.",
          "url": "https://www.nature.com/articles/s41467-019-13933-5"
       }
     ],
@@ -62,19 +70,19 @@
     "img": "/assets/images/papers/2019.jpg",
     "papers": [
       {
-        "citation": "Hsieh V, Okada S, Wei H, García-Álvarez I, Barandov A, Recuenco Alvarado S, Ohlendorf R, Fan J, Ortega A, Jasanoff A. (2019) “Neurotransmitter-responsive nanosensors for T2-weighted magnetic resonance imaging.” J Am Chem Soc 10: 1021",
+        "citation": "Hsieh V, Okada S, Wei H, García-Álvarez I, Barandov A, Recuenco Alvarado S, Ohlendorf R, Fan J, Ortega A, Jasanoff A (2019) “Neurotransmitter-responsive nanosensors for T2-weighted magnetic resonance imaging.” J Am Chem Soc 10: 1021",
         "url": "https://pubs.acs.org/doi/10.1021/jacs.9b08744"
       },
       {
-        "citation": "Alvaradejo GG, Nguyen HV, Harvey P, Gallagher NM, Le D, Ottaviani MF, Jasanoff A, Delaittre G, Johnson JA. (2019) “Polyoxazoline-Based Bottlebrush and Brush-Arm Star Polymers via ROMP: Syntheses and Applications as Organic Radical Contrast Agents.” ACS Macro Lett 8: 473-478.",
+        "citation": "Alvaradejo GG, Nguyen HV, Harvey P, Gallagher NM, Le D, Ottaviani MF, Jasanoff A, Delaittre G, Johnson JA (2019) “Polyoxazoline-Based Bottlebrush and Brush-Arm Star Polymers via ROMP: Syntheses and Applications as Organic Radical Contrast Agents.” ACS Macro Lett 8: 473-478.",
         "url": "https://pubs.acs.org/doi/10.1021/acsmacrolett.9b00016"
       },
       {
-        "citation": "Barandov A, Bartelle BB, Williamson CG, Loucks ES, Lippard SJ, Jasanoff A. (2019) “Sensing intracellular calcium ions using a manganese-based MRI contrast agent.” Nat Commun 10: 897.",
+        "citation": "Barandov A, Bartelle BB, Williamson CG, Loucks ES, Lippard SJ, Jasanoff A (2019) “Sensing intracellular calcium ions using a manganese-based MRI contrast agent.” Nat Commun 10: 897.",
         "url": "https://www.nature.com/articles/s41467-019-08558-7"
       },
       {
-        "citation": "Hai A, Spanoudaki VC, Bartelle BB, Jasanoff A. (2019) “Wireless resonant circuits for the minimally invasive sensing of biophysical processes in magnetic resonance imaging.” Nat Biomed Eng 3: 69-78.",
+        "citation": "Hai A, Spanoudaki VC, Bartelle BB, Jasanoff A (2019) “Wireless resonant circuits for the minimally invasive sensing of biophysical processes in magnetic resonance imaging.” Nat Biomed Eng 3: 69-78.",
         "url": "https://www.nature.com/articles/s41551-018-0309-8",
       }
     ],
@@ -83,7 +91,7 @@
     "img": "/assets/images/papers/2018.jpg",
     "papers": [
       {
-        "citation": "Nguyen HV, Detappe A, Gallagher NM, Zhang H, Harvey P, Yan C, Mathieu C, Golder MR, Jiang Y, Ottaviani MF, Jasanoff A, Rajca A, Ghobrial I, Ghoroghchian PP, Johnson JA.(2018) “Triply Loaded Nitroxide Brush-Arm Star Polymers Enable Metal-Free Millimetric Tumor Detection by Magnetic Resonance Imaging.” ACS Nano 12: 11343-54.",
+        "citation": "Nguyen HV, Detappe A, Gallagher NM, Zhang H, Harvey P, Yan C, Mathieu C, Golder MR, Jiang Y, Ottaviani MF, Jasanoff A, Rajca A, Ghobrial I, Ghoroghchian PP, Johnson JA (2018) “Triply Loaded Nitroxide Brush-Arm Star Polymers Enable Metal-Free Millimetric Tumor Detection by Magnetic Resonance Imaging.” ACS Nano 12: 11343-54.",
         "url": "https://pubs.acs.org/doi/10.1021/acsnano.8b06160"
          },
         {
@@ -91,12 +99,12 @@
       "url": "https://www.nature.com/articles/s41467-018-04227-3"
        },
        {
-       "citation": "Okada S, Bartelle BB, Li N, Breton-Provencher V, Lee JJ, Rodriguez E, Melican J, Sur M, Jasanoff A.(2018) “Calcium-dependent molecular fMRI using a magnetic nanosensor.” Nat Nanotechnol 13: 473-77.",
+       "citation": "Okada S, Bartelle BB, Li N, Breton-Provencher V, Lee JJ, Rodriguez E, Melican J, Sur M, Jasanoff A (2018) “Calcium-dependent molecular fMRI using a magnetic nanosensor.” Nat Nanotechnol 13: 473-77.",
          "url": "https://www.nature.com/articles/s41565-018-0092-4"
           },
         {
 
-      "citation": "Ghosh S, Harvey P, Simon JC, Jasanoff A. (2018) “Probing the brain with molecular fMRI.” Curr Opin Neurobiol 50: 201-10.",
+      "citation": "Ghosh S, Harvey P, Simon JC, Jasanoff A (2018) “Probing the brain with molecular fMRI.” Curr Opin Neurobiol 50: 201-10.",
          "url": "https://www.sciencedirect.com/science/article/pii/S0959438817302489?via%3Dihub",
        }
     ],
@@ -105,15 +113,15 @@
     "img": "/assets/images/papers/2017.jpg",
     "papers": [
        {
-        "citation": "Nguyen HV, Chen Q, Paletta JT, Harvey P, Jiang Y, Zhang H, Boska MD, Ottaviani MF, Jasanoff A, Rajca A, Johnson JA.(2017) “Nitroxide-Based Macromolecular Contrast Agents with Unprecedented Transverse Relaxivity and Stability for Magnetic Resonance Imaging of Tumors.” ACS Cent Sci 3: 800-11.",
+        "citation": "Nguyen HV, Chen Q, Paletta JT, Harvey P, Jiang Y, Zhang H, Boska MD, Ottaviani MF, Jasanoff A, Rajca A, Johnson JA (2017) “Nitroxide-Based Macromolecular Contrast Agents with Unprecedented Transverse Relaxivity and Stability for Magnetic Resonance Imaging of Tumors.” ACS Cent Sci 3: 800-11.",
          "url": "https://pubs.acs.org/doi/10.1021/acscentsci.7b00253"
         },
         {
-       "citation": "Wei H, Bruns OT, Kaul MG, Hansen EC, Barch M, Wiśniowska A, Chen O, Chen Y, Li N, Okada S, Cordero JM, Heine M, Farrar CT, Montana DM, Adam G, Ittrich H, Jasanoff A, Nielsen P, Bawendi MG. (2017) “Exceedingly small iron oxide nanoparticles as positive MRI contrast agents.” Proc Natl Acad Sci U S A. 114: 2325-30.",
+       "citation": "Wei H, Bruns OT, Kaul MG, Hansen EC, Barch M, Wiśniowska A, Chen O, Chen Y, Li N, Okada S, Cordero JM, Heine M, Farrar CT, Montana DM, Adam G, Ittrich H, Jasanoff A, Nielsen P, Bawendi MG (2017) “Exceedingly small iron oxide nanoparticles as positive MRI contrast agents.” Proc Natl Acad Sci U S A. 114: 2325-30.",
           "url": "https://www.pnas.org/content/114/9/2325"
         },
         {
-       "citation": "Fiallos AM, Bricault SJ, Cai LX, Worku HA, Colonnese MT, Westmeyer GG, Jasanoff A. (2017) “Reward magnitude tracking by neural populations in ventral striatum.” Neuroimage 146: 1003-15.",
+       "citation": "Fiallos AM, Bricault SJ, Cai LX, Worku HA, Colonnese MT, Westmeyer GG, Jasanoff A (2017) “Reward magnitude tracking by neural populations in ventral striatum.” Neuroimage 146: 1003-15.",
           "url": "https://www.sciencedirect.com/science/article/pii/S1053811916305882?via%3Dihub"
          },
         {
@@ -126,27 +134,27 @@
     "img": "/assets/images/papers/2016.jpg",
     "papers": [
         {
-        "citation": "Desai M, Slusarczyk AL, Chapin A, Barch M, Jasanoff A. (2016) “Molecular imaging with engineered physiology.” Nat Commun 7: 13607.",
+        "citation": "Desai M, Slusarczyk AL, Chapin A, Barch M, Jasanoff A (2016) “Molecular imaging with engineered physiology.” Nat Commun 7: 13607.",
           "url": "https://www.nature.com/articles/ncomms13607"
        },
        {
-       "citation":"Hai A, Cai LX, Lee T, Lelyveld VS, Jasanoff A. (2016) “Molecular fMRI of Serotonin Transport.” Neuron 92: 754-65.",
+       "citation":"Hai A, Cai LX, Lee T, Lelyveld VS, Jasanoff A (2016) “Molecular fMRI of Serotonin Transport.” Neuron 92: 754-65.",
          "url": "https://www.sciencedirect.com/science/article/pii/S0896627316306535?via%3Dihub"
         },
         {
-       "citation": "Anikeeva P, Jasanoff A. (2016) “Problems on the back of an envelope.” Elife 5: e19569.",
+       "citation": "Anikeeva P, Jasanoff A (2016) “Problems on the back of an envelope.” Elife 5: e19569.",
           "url": "https://elifesciences.org/articles/19569"
        },
        {
-       "citation":"Barandov A, Bartelle BB, Gonzalez BA, White WL, Lippard SJ, Jasanoff A. (2016) “Membrane-Permeable Mn(III) Complexes for Molecular Magnetic Resonance Imaging of Intracellular Targets.” J Am Chem Soc 138: 5483-6.",
+       "citation":"Barandov A, Bartelle BB, Gonzalez BA, White WL, Lippard SJ, Jasanoff A (2016) “Membrane-Permeable Mn(III) Complexes for Molecular Magnetic Resonance Imaging of Intracellular Targets.” J Am Chem Soc 138: 5483-6.",
            "url": "https://pubs.acs.org/doi/10.1021/jacs.5b13337"
       },
       {
-       "citation": "Bartelle BB, Barandov A, Jasanoff A. (2016) “Molecular fMRI.” J Neurosci 36: 4139-48.",
+       "citation": "Bartelle BB, Barandov A, Jasanoff A (2016) “Molecular fMRI.” J Neurosci 36: 4139-48.",
       "url": "https://www.jneurosci.org/content/36/15/4139"
       },
       {
-       "citation": "Chen R, Christiansen MG, Sourakov A, Mohr A, Matsumoto Y, Okada S, Jasanoff A, Anikeeva P. (2016) “High-Performance Ferrite Nanoparticles through Nonaqueous Redox Phase Tuning.” Nano Lett 16: 1345-51.",
+       "citation": "Chen R, Christiansen MG, Sourakov A, Mohr A, Matsumoto Y, Okada S, Jasanoff A, Anikeeva P (2016) “High-Performance Ferrite Nanoparticles through Nonaqueous Redox Phase Tuning.” Nano Lett 16: 1345-51.",
          "url": "https://pubs.acs.org/doi/10.1021/acs.nanolett.5b04761",
       }
     ],
@@ -155,7 +163,7 @@
     "img": "/assets/images/papers/2015.jpg",
     "papers": [
         {
-        "citation": "Matsumoto Y, Chen R, Anikeeva P, Jasanoff A. (2015) “Engineering intracellular biomineralization and biosensing by a magnetic protein.” Nat Commun 6: 8721.",
+        "citation": "Matsumoto Y, Chen R, Anikeeva P, Jasanoff A (2015) “Engineering intracellular biomineralization and biosensing by a magnetic protein.” Nat Commun 6: 8721.",
           "url": "https://www.nature.com/articles/ncomms9721"
       }
     ],
@@ -164,23 +172,23 @@
     "img": "/assets/images/papers/2014.jpg",
     "papers": [
        {
-        "citation": "Chen O, Riedemann L, Etoc F, Herrmann H, Coppey M, Barch M, Farrar CT, Zhao J, Bruns OT, Wei H, Guo P, Cui J, Jensen R, Chen Y, Harris DK, Cordero JM, Wang Z, Jasanoff A, Fukumura D, Reimer R, Dahan M, Jain RK, Bawendi MG. (2014) “Magneto-fluorescent core-shell supernanoparticles.” Nat Commun 5: 5093.",
+        "citation": "Chen O, Riedemann L, Etoc F, Herrmann H, Coppey M, Barch M, Farrar CT, Zhao J, Bruns OT, Wei H, Guo P, Cui J, Jensen R, Chen Y, Harris DK, Cordero JM, Wang Z, Jasanoff A, Fukumura D, Reimer R, Dahan M, Jain RK, Bawendi MG (2014) “Magneto-fluorescent core-shell supernanoparticles.” Nat Commun 5: 5093.",
          "url": "https://www.nature.com/articles/ncomms6093"
        },
       {
-       "citation": "Barch M, Okada S, Bartelle BB, Jasanoff A. (2014) “Screen-based analysis of magnetic nanoparticle libraries formed using peptidic iron oxide ligands.” J Am Chem Soc 136: 12516-9.",
+       "citation": "Barch M, Okada S, Bartelle BB, Jasanoff A (2014) “Screen-based analysis of magnetic nanoparticle libraries formed using peptidic iron oxide ligands.” J Am Chem Soc 136: 12516-9.",
         "url": "https://pubs.acs.org/doi/10.1021/ja410884e"
        },
       {
-       "citation": "Lee T, Cai LX, Lelyveld VS, Hai A, Jasanoff A. (2014) “Molecular-level functional magnetic resonance imaging of dopaminergic signaling.” Science 344: 533-5.",
+       "citation": "Lee T, Cai LX, Lelyveld VS, Hai A, Jasanoff A (2014) “Molecular-level functional magnetic resonance imaging of dopaminergic signaling.” Science 344: 533-5.",
         "url": "https://science.sciencemag.org/content/344/6183/533"
        },
       {
-      "citation": "Westmeyer GG, Emer Y, Lintelmann J, Jasanoff A. (2014) “MRI-based detection of alkaline phosphatase gene reporter activity using a porphyrin solubility switch.” Chem Biol 21: 422-9.",
+      "citation": "Westmeyer GG, Emer Y, Lintelmann J, Jasanoff A (2014) “MRI-based detection of alkaline phosphatase gene reporter activity using a porphyrin solubility switch.” Chem Biol 21: 422-9.",
         "url": "https://www.sciencedirect.com/science/article/pii/S1074552114000398?via%3Dihub"
        },
       {
-      "citation": "Rodriguez E, Lelyveld VS, Atanasijevic T, Okada S, Jasanoff A. (2014) “Magnetic nanosensors optimized for rapid and reversible self-assembly.” Chem Commun (Camb) 50: 3595-8.",
+      "citation": "Rodriguez E, Lelyveld VS, Atanasijevic T, Okada S, Jasanoff A (2014) “Magnetic nanosensors optimized for rapid and reversible self-assembly.” Chem Commun (Camb) 50: 3595-8.",
         "url": "https://pubs.rsc.org/en/content/articlelanding/2014/CC/C4CC00314D#!divAbstract",
       }
     ],
@@ -189,15 +197,15 @@
     "img": "/assets/images/papers/2013.jpg",
     "papers": [
       {
-        "citation": "Devor A, Bandettini PA, Boas DA, Bower JM, Buxton RB, Cohen LB, Dale AM, Einevoll GT, Fox PT, Franceschini MA, Friston KJ, Fujimoto JG, Geyer MA, Greenberg JH, Halgren E, Hämäläinen MS, Helmchen F, Hyman BT, Jasanoff A, Jernigan TL, Judd LL, Kim SG, Kleinfeld D, Kopell NJ, Kutas M, Kwong KK, Larkum ME, Lo EH, Magistretti PJ, Mandeville JB, Masliah E, Mitra PP, Mobley WC, Moskowitz MA, Nimmerjahn A, Reynolds JH, Rosen BR, Salzberg BM, Schaffer CB, Silva GA, So PT, Spitzer NC, Tootell RB, Van Essen DC, Vanduffel W, Vinogradov SA, Wald LL, Wang LV, Weber B, Yodh AG.(2013) “The challenge of connecting the dots in the B.R.A.I.N.” Neuron 80: 270-4.",
+        "citation": "Devor A, Bandettini PA, Boas DA, Bower JM, Buxton RB, Cohen LB, Dale AM, Einevoll GT, Fox PT, Franceschini MA, Friston KJ, Fujimoto JG, Geyer MA, Greenberg JH, Halgren E, Hämäläinen MS, Helmchen F, Hyman BT, Jasanoff A, Jernigan TL, Judd LL, Kim SG, Kleinfeld D, Kopell NJ, Kutas M, Kwong KK, Larkum ME, Lo EH, Magistretti PJ, Mandeville JB, Masliah E, Mitra PP, Mobley WC, Moskowitz MA, Nimmerjahn A, Reynolds JH, Rosen BR, Salzberg BM, Schaffer CB, Silva GA, So PT, Spitzer NC, Tootell RB, Van Essen DC, Vanduffel W, Vinogradov SA, Wald LL, Wang LV, Weber B, Yodh AG (2013) “The challenge of connecting the dots in the B.R.A.I.N.” Neuron 80: 270-4.",
         "url": "https://www.sciencedirect.com/science/article/pii/S0896627313008064?via%3Dihub"
        },
       {
-      "citation": "Jackson WS, Borkowski AW, Watson NE, King OD, Faas H, Jasanoff A, Lindquist S. (2013) “Profoundly different prion diseases in knock-in mice carrying single PrP codon substitutions associated with human diseases.” Proc Natl Acad Sci U S A 110: 14759-64.",
+      "citation": "Jackson WS, Borkowski AW, Watson NE, King OD, Faas H, Jasanoff A, Lindquist S (2013) “Profoundly different prion diseases in knock-in mice carrying single PrP codon substitutions associated with human diseases.” Proc Natl Acad Sci U S A 110: 14759-64.",
         "url": "https://www.pnas.org/content/110/36/14759"
        },
       {
-      "citation": "Romero PA, Shapiro MG, Arnold FH, Jasanoff A. (2013) “Directed evolution of protein-based neurotransmitter sensors for MRI.” Methods Mol Biol 995: 193-205.",
+      "citation": "Romero PA, Shapiro MG, Arnold FH, Jasanoff A (2013) “Directed evolution of protein-based neurotransmitter sensors for MRI.” Methods Mol Biol 995: 193-205.",
         "url": "https://link.springer.com/protocol/10.1007%2F978-1-62703-345-9_14"
        },
       {
@@ -210,15 +218,15 @@
     "img": "/assets/images/papers/2012.jpg",
     "papers": [
        {
-        "citation": "Hsieh V, Jasanoff A. (2012) “Bioengineered probes for molecular magnetic resonance imaging in the nervous system.” ACS Chem Neurosci 3: 593-602.",
+        "citation": "Hsieh V, Jasanoff A (2012) “Bioengineered probes for molecular magnetic resonance imaging in the nervous system.” ACS Chem Neurosci 3: 593-602.",
          "url": "https://pubs.acs.org/doi/10.1021/cn300059r"
        },
       {
-      "citation": "Jasanoff A. (2012) “Adventures in neurobioengineering.” ACS Chem Neurosci 3: 575.",
+      "citation": "Jasanoff A (2012) “Adventures in neurobioengineering.” ACS Chem Neurosci 3: 575.",
         "url": "https://pubs.acs.org/doi/10.1021/cn300102p"
        },
       {
-      "citation": "Brustad EM, Lelyveld VS, Snow CD, Crook N, Jung ST, Martinez FM, Scholl TJ, Jasanoff A, Arnold FH. (2012) “Structure-guided directed evolution of highly selective p450-based magnetic resonance imaging sensors for dopamine and serotonin.” J Mol Biol 422: 245-62.",
+      "citation": "Brustad EM, Lelyveld VS, Snow CD, Crook N, Jung ST, Martinez FM, Scholl TJ, Jasanoff A, Arnold FH (2012) “Structure-guided directed evolution of highly selective p450-based magnetic resonance imaging sensors for dopamine and serotonin.” J Mol Biol 422: 245-62.",
         "url": "https://www.sciencedirect.com/science/article/pii/S0022283612004275?via%3Dihub",
       }
     ],
@@ -227,7 +235,7 @@
     "img": "/assets/images/papers/2011.jpg",
     "papers": [
        {
-       "citation":  "Lelyveld VS, Brustad E, Arnold FH, Jasanoff A. (2011) “Metal-substituted protein MRI contrast agents engineered for enhanced relaxivity and ligand sensitivity.” J Am Chem Soc 133: 649-51.",
+       "citation":  "Lelyveld VS, Brustad E, Arnold FH, Jasanoff A (2011) “Metal-substituted protein MRI contrast agents engineered for enhanced relaxivity and ligand sensitivity.” J Am Chem Soc 133: 649-51.",
          "url": "https://pubs.acs.org/doi/10.1021/ja107936d",
       }
     ],
@@ -236,27 +244,27 @@
     "img": "/assets/images/papers/2010.jpg",
     "papers": [
        {
-       "citation": "Lelyveld VS, Atanasijevic T, Jasanoff A. (2010) “Challenges for Molecular Neuroimaging with MRI.” Int J Imaging Syst Technol 20: 71-79.",
+       "citation": "Lelyveld VS, Atanasijevic T, Jasanoff A (2010) “Challenges for Molecular Neuroimaging with MRI.” Int J Imaging Syst Technol 20: 71-79.",
          "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ima.20221"
        },
       {
-       "citation": "Lee T, Zhang XA, Dhar S, Faas H, Lippard SJ, Jasanoff A. (2010) “In vivo imaging with a cell-permeable porphyrin-based MRI contrast agent.” Chem Biol 17: 665-73.",
+       "citation": "Lee T, Zhang XA, Dhar S, Faas H, Lippard SJ, Jasanoff A (2010) “In vivo imaging with a cell-permeable porphyrin-based MRI contrast agent.” Chem Biol 17: 665-73.",
         "url": "https://www.sciencedirect.com/science/article/pii/S1074552110001717?via%3Dihub"
        },
       {
-       "citation": "You Y, Tomat E, Hwang K, Atanasijevic T, Nam W, Jasanoff AP, Lippard SJ. (2010) “Manganese displacement from Zinpyr-1 allows zinc detection by fluorescence microscopy and magnetic resonance imaging.” Chem Commun (Camb) 46: 4139-41.",
+       "citation": "You Y, Tomat E, Hwang K, Atanasijevic T, Nam W, Jasanoff AP, Lippard SJ (2010) “Manganese displacement from Zinpyr-1 allows zinc detection by fluorescence microscopy and magnetic resonance imaging.” Chem Commun (Camb) 46: 4139-41.",
        "url": "https://pubs.rsc.org/en/content/articlelanding/2010/CC/c0cc00179a#!divAbstract"
        },
       {
-       "citation": "Westmeyer GG, Durocher Y, Jasanoff A. (2010) “A secreted enzyme reporter system for MRI.” Angew Chem Int Ed Engl 49: 3909-11.",
+       "citation": "Westmeyer GG, Durocher Y, Jasanoff A (2010) “A secreted enzyme reporter system for MRI.” Angew Chem Int Ed Engl 49: 3909-11.",
          "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/anie.200906712"
        },
       {
-       "citation": "Shapiro MG, Westmeyer GG, Romero PA, Szablowski JO, Küster B, Shah A, Otey CR, Langer R, Arnold FH, Jasanoff A. (2010) “Directed evolution of a magnetic resonance imaging contrast agent for noninvasive imaging of dopamine.”  Nat Biotechnol 28: 264-70.",
+       "citation": "Shapiro MG, Westmeyer GG, Romero PA, Szablowski JO, Küster B, Shah A, Otey CR, Langer R, Arnold FH, Jasanoff A (2010) “Directed evolution of a magnetic resonance imaging contrast agent for noninvasive imaging of dopamine.”  Nat Biotechnol 28: 264-70.",
         "url": "https://www.nature.com/articles/nbt.1609"
        },
       {
-       "citation": "Atanasijevic T, Zhang XA, Lippard SJ, Jasanoff A. (2010) “MRI sensing based on the displacement of paramagnetic ions from chelated complexes.” Inorg Chem 49: 2589-91.",
+       "citation": "Atanasijevic T, Zhang XA, Lippard SJ, Jasanoff A (2010) “MRI sensing based on the displacement of paramagnetic ions from chelated complexes.” Inorg Chem 49: 2589-91.",
         "url": "https://pubs.acs.org/doi/10.1021/ic100150e"
        },
       {
@@ -269,11 +277,11 @@
     "img": "/assets/images/papers/2009.jpg",
     "papers": [
       {
-       "citation": "Jackson WS, Borkowski AW, Faas H, Steele AD, King OD, Watson N, Jasanoff A, Lindquist S. (2009) “Spontaneous generation of prion infectivity in fatal familial insomnia knockin mice.” Neuron 63: 438-50.",
+       "citation": "Jackson WS, Borkowski AW, Faas H, Steele AD, King OD, Watson N, Jasanoff A, Lindquist S (2009) “Spontaneous generation of prion infectivity in fatal familial insomnia knockin mice.” Neuron 63: 438-50.",
         "url": "https://www.sciencedirect.com/science/article/pii/S0896627309005819?via%3Dihub"
        },
       {
-      "citation": "Shapiro MG, Szablowski JO, Langer R, Jasanoff A. (2009) “Protein nanoparticles engineered to sense kinase activity in MRI.” J Am Chem Soc 131: 2484-6.",
+      "citation": "Shapiro MG, Szablowski JO, Langer R, Jasanoff A (2009) “Protein nanoparticles engineered to sense kinase activity in MRI.” J Am Chem Soc 131: 2484-6.",
          "url": "https://pubs.acs.org/doi/10.1021/ja8086938",
       }
     ],
@@ -282,11 +290,11 @@
     "img": "/assets/images/papers/2008.jpg",
     "papers": [
       {
-       "citation": "Matsumoto Y, Jasanoff A. (2008) “T2 relaxation induced by clusters of superparamagnetic nanoparticles: Monte Carlo simulations.” Magn Reson Imaging 26: 994-8.",
+       "citation": "Matsumoto Y, Jasanoff A (2008) “T2 relaxation induced by clusters of superparamagnetic nanoparticles: Monte Carlo simulations.” Magn Reson Imaging 26: 994-8.",
         "url": "https://www.sciencedirect.com/science/article/pii/S0730725X08000945?via%3Dihub"
        },
       {
-      "citation": "Colonnese MT, Phillips MA, Constantine-Paton M, Kaila K, Jasanoff A. (2008) “Development of hemodynamic responses and functional connectivity in rat somatosensory cortex.” Nat Neurosci 11: 72-9.",
+      "citation": "Colonnese MT, Phillips MA, Constantine-Paton M, Kaila K, Jasanoff A (2008) “Development of hemodynamic responses and functional connectivity in rat somatosensory cortex.” Nat Neurosci 11: 72-9.",
         "url": "https://www.nature.com/articles/nn2017",
       }
     ],
@@ -295,23 +303,23 @@
     "img": "/assets/images/papers/2007.jpg",
     "papers": [
       {
-       "citation": "Jasanoff A. (2007) “MRI contrast agents for functional molecular imaging of brain activity.” Curr Opin Neurobiol 17: 593-600.",
+       "citation": "Jasanoff A (2007) “MRI contrast agents for functional molecular imaging of brain activity.” Curr Opin Neurobiol 17: 593-600.",
         "url": "https://www.sciencedirect.com/science/article/pii/S0959438807001201?via%3Dihub"
        },
       {
-      "citation": "Atanasijevic T, Jasanoff A. (2007) “Preparation of iron oxide-based calcium sensors for MRI.” Nat Protoc 2: 2582-9.",
+      "citation": "Atanasijevic T, Jasanoff A (2007) “Preparation of iron oxide-based calcium sensors for MRI.” Nat Protoc 2: 2582-9.",
         "url": "https://www.nature.com/articles/nprot.2007.377"
        },
       {
-      "citation": "Jasanoff A. (2007) “Bloodless FMRI.” Trends Neurosci 30: 603-10.",
+      "citation": "Jasanoff A (2007) “Bloodless FMRI.” Trends Neurosci 30: 603-10.",
         "url": "https://www.sciencedirect.com/science/article/pii/S0166223607002251?via%3Dihub"
        },
       {
-      "citation": "Zhang XA, Lovejoy KS, Jasanoff A, Lippard SJ. (2007) “Water-soluble porphyrins as a dual-function molecular imaging platform for MRI and fluorescence zinc sensing.” Proc Natl Acad Sci U S A 104: 10780-5.",
+      "citation": "Zhang XA, Lovejoy KS, Jasanoff A, Lippard SJ (2007) “Water-soluble porphyrins as a dual-function molecular imaging platform for MRI and fluorescence zinc sensing.” Proc Natl Acad Sci U S A 104: 10780-5.",
         "url": "https://www.pnas.org/content/104/26/10780"
        },
       {
-      "citation": "Westmeyer GG, Jasanoff A. (2007) “Genetically controlled MRI contrast mechanisms and their prospects in systems neuroscience research.” Magn Reson Imaging 25: 1004-10.",
+      "citation": "Westmeyer GG, Jasanoff A (2007) “Genetically controlled MRI contrast mechanisms and their prospects in systems neuroscience research.” Magn Reson Imaging 25: 1004-10.",
         "url": "https://www.sciencedirect.com/science/article/pii/S0730725X07002032?via%3Dihub",
        }
     ],
@@ -320,15 +328,15 @@
     "img": "/assets/images/papers/2006.jpg",
     "papers": [
       {
-       "citation": "Green DF, Dennis AT, Fam PS, Tidor B, Jasanoff A. (2006) “Rational design of new binding specificity by simultaneous mutagenesis of calmodulin and a target peptide.” Biochemistry 45: 12547-59.",
+       "citation": "Green DF, Dennis AT, Fam PS, Tidor B, Jasanoff A (2006) “Rational design of new binding specificity by simultaneous mutagenesis of calmodulin and a target peptide.” Biochemistry 45: 12547-59.",
         "url": "https://pubs.acs.org/doi/10.1021/bi060857u"
        },
       {
-      "citation": "Atanasijevic T, Shusteff M, Fam P, Jasanoff A. (2006) “Calcium-sensitive MRI contrast agents based on superparamagnetic iron oxide nanoparticles and calmodulin.” Proc Natl Acad Sci U S A 103: 14707-12.",
+      "citation": "Atanasijevic T, Shusteff M, Fam P, Jasanoff A (2006) “Calcium-sensitive MRI contrast agents based on superparamagnetic iron oxide nanoparticles and calmodulin.” Proc Natl Acad Sci U S A 103: 14707-12.",
         "url": "https://www.pnas.org/content/103/40/14707"
        },
       {
-      "citation": "Shapiro MG, Atanasijevic T, Faas H, Westmeyer GG, Jasanoff A. (2006) “Dynamic imaging with MRI contrast agents: quantitative considerations.” Magn Reson Imaging 24: 449-62.",
+      "citation": "Shapiro MG, Atanasijevic T, Faas H, Westmeyer GG, Jasanoff A (2006) “Dynamic imaging with MRI contrast agents: quantitative considerations.” Magn Reson Imaging 24: 449-62.",
        "url": "https://www.sciencedirect.com/science/article/pii/S0730725X06000579?via%3Dihub",
        }
     ],
@@ -337,11 +345,11 @@
     "img": "/assets/images/papers/2005.jpg",
     "papers": [
       {
-       "citation":  "Kim SW, Kim S, Tracy JB, Jasanoff A, Bawendi MG. (2005) “Phosphine oxide polymer for water-soluble nanoparticles.” J Am Chem Soc 127: 4556-7.",
+       "citation":  "Kim SW, Kim S, Tracy JB, Jasanoff A, Bawendi MG (2005) “Phosphine oxide polymer for water-soluble nanoparticles.” J Am Chem Soc 127: 4556-7.",
         "url": "https://pubs.acs.org/doi/10.1021/ja043577f"
        },
       {
-      "citation": "Jasanoff A. (2005) “Functional MRI using molecular imaging agents.” Trends Neurosci 28: 120-6.",
+      "citation": "Jasanoff A (2005) “Functional MRI using molecular imaging agents.” Trends Neurosci 28: 120-6.",
         "url": "https://www.sciencedirect.com/science/article/pii/S0166223604003935?via%3Dihub",
        }
     ],
