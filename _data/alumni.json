@@ -32,9 +32,9 @@
     "affiliation": "Vision Institute, Paris",
   },
   { 
-     "name": "Lili Cai",
-    "title": "Data Scientist",
-    "affiliation": "Nielsen",
+    "name": "Lili Cai",
+    "title": "CEO",
+    "affiliation": "Noorisher",
   },
   {
     "name": "Matthew Colonnese",
@@ -68,15 +68,20 @@
     "affiliation": "Unversity of Miami",
   },
   {
-     "name": "Isabel Garcia Alvarez",
+    "name": "Isabel Garcia Alvarez",
     "title": "Faculty",
     "affiliation": "Universidad Francisco de Vitoria",
     "link": "https://postgrado.ufv.es/profesores/isabel-garcia-alvarez/"    
   },
   {
+    "name": "Gracia Garcia Garcia",
+    "title": "Postdoc",
+    "affiliation": "Universidad Francisco de Vitoria",
+  },
+  {
     "name": "Souparno Ghosh",
-    "title": "Consultant",
-    "affiliation": "VL59",
+    "title": "Scientist",
+    "affiliation": "Radial Therapeutics",
   },
   {
     "name": "Aviad Hai",
@@ -103,7 +108,7 @@
   },
   {
     "name": "Taekwan Lee",
-    "title": "Principal Researcher",
+    "title": "Faculty",
     "affiliation": "Korea Brain Research Institute",
    },
   {
