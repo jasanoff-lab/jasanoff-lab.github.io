@@ -130,6 +130,11 @@
     "link": "https://www.vervetx.com/about-us/"
   },
   {
+    "name": "Robert Ohlendorf",
+    "title": "Group Leader",
+    "affiliation": "Max Planck Tübingen",
+  },
+  {
     "name": "Satoshi Okada",
     "title": "Faculty",
     "affiliation": "Tokyo Institute of Technology",
@@ -149,7 +154,8 @@
     "name": "Jacob Simon",
     "title": "Postdoc",
     "affiliation": "Stanford University",
-    
+  },
+  {
      "name": "Adrian Slusarczyk",
     "title": "Strategist",
     "affiliation": "LEK Consulting",
