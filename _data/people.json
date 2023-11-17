@@ -75,14 +75,14 @@
     "img": "/assets/images/people/TakashiKaise.png",   
     },
     {
-    "name": "Vinay Sharma, PhD",
-    "bio": " Vinay works on paramagnetic and nanoscale sensors designed to sense calcium and other targets in the nervous system.",
-    "img": "/assets/images/people/VinaySharma.jpg",  
-    },
-    {
     "name": "Valerie Phi Van, MD",
     "bio": "Valerie is a radiologist and preclinical MRI expert who is interested in using genetic probes to study molecular processes in animal models.",
     "img": "/assets/images/people/ValeriePhivan.jpg",  
+    },
+    {
+    "name": "Vinay Sharma, PhD",
+    "bio": " Vinay works on paramagnetic and nanoscale sensors designed to sense calcium and other targets in the nervous system.",
+    "img": "/assets/images/people/VinaySharma.jpg",  
     },
     {
     "name": "Ying Jiang, PhD",
