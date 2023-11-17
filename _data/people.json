@@ -16,6 +16,11 @@
     "img": "/assets/images/people/BrennaStallings.jpg"
     },
     {
+    "name": "Diane Ballestas",
+    "bio": "Diane administers the lab and collaborates with other group members on a broad range logistical, financial, and social activities.",
+    "img": "/assets/images/people/DianeBallestas.jpg"
+    },
+    {
     "name": "Gregory Thiabaud, PhD",
     "bio": "Greg works on design and synthesis of novel MRI sensors based on a variety of paramagnetic chelator complexes.",
     "img": "/assets/images/people/GregThiabaud.jpg"
@@ -63,6 +68,16 @@
     "name": "Sayani Das, PhD",
     "bio": "Sayani is an expert in chemical probe design who works on contrast agents for ultrasensitive molecular neuroimaging.",
     "img": "/assets/images/people/SayaniDas.jpg",   
+    },
+    {
+    "name": "Takashi Kaise, PhD",
+    "bio": ". Takashi is interested in developing and applying new protein-based tools for analysis of mammalian brain function.",
+    "img": "/assets/images/people/TakashiKaise.png",   
+    },
+    {
+    "name": "Vinay Sharma, PhD",
+    "bio": " Vinay works on paramagnetic and nanoscale sensors designed to sense calcium and other targets in the nervous system.",
+    "img": "/assets/images/people/VinaySharma.jpg",  
     },
     {
     "name": "Valerie Phi Van, MD",
