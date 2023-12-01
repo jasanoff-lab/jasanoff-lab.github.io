@@ -59,6 +59,11 @@
     "img": "/assets/images/people/MiriamSchwalm.jpg",
     },
     {
+    "name": "Omozusi Guobadia",
+     "bio": "Mozi works on a collaborative project with the Anikeeva lab to adapt multimodal fiber technology for functional and molecular MRI.",
+    "img": "/assets/images/people/Mozi.jpg",
+    },
+    {  
     "name": "Sajal Sen, PhD",
     "bio": "Sajal is a synthetic chemist who works on small molecule contrast agents for mechanistic MRI-based studies of brain function in health and disease.",
     "img": "/assets/images/people/SajalSen.jpg",
