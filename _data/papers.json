@@ -1,4 +1,13 @@
 {
+  "2024": {
+     "img": "assets/images/papers/2024.jpg", 
+      "papers": [
+      {
+         "citation":  "Phi Van VD, Sen S, Jasanoff A (2024) “A different interpretation of the DIANA fMRI signal.” Sci Adv, 10(13):eadl2034. doi: 10.1126/sciadv.adl20347.",
+        "url": "https://www.science.org/doi/10.1126/sciadv.adl2034"
+      }
+    ],
+  }, 
  "2023": {
      "img": "assets/images/papers/2023.PNG", 
       "papers": [
