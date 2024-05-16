@@ -3,6 +3,11 @@
      "img": "assets/images/papers/2024.jpg", 
       "papers": [
       {
+       "citation":  "Ohlendorf R, Li N,Phi Van VD, Schwalm M, Ke Y, Dawson M, Jiang Y, Das S, Stallings B, Zheng WT, Jasanoff A (2024) “Imaging bioluminescence by detecting localized haemodynamic contrast from photosensitized vasculature.” Nat Biomed Eng
+., doi: 10.1038/s41551-024-01210-w. Online ahead of print.",
+        "url": "https://www.nature.com/articles/s41551-024-01210-w"
+       },
+       {
          "citation":  "Phi Van VD, Sen S, Jasanoff A (2024) “A different interpretation of the DIANA fMRI signal.” Sci Adv, 10(13):eadl2034. doi: 10.1126/sciadv.adl20347.",
         "url": "https://www.science.org/doi/10.1126/sciadv.adl2034"
       }
