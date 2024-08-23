@@ -43,25 +43,10 @@
     "img": "/assets/images/people/KevinChung.jpg",
     },
     {
-    "name": "Kyle Backman",
-    "bio": "Kyle works on animal models of substance use disorders and on applications of functional and molecular imaging in addiction biology.",
-    "img": "/assets/images/people/KyleBackman.jpg" 
-    },
-    {
     "name": "Miranda Dawson",
     "bio": "Miranda is a bioengineer working on novel strategies for genetic imaging and mapping plasticity related processes in the brain.",
     "img": "/assets/images/people/MirandaDawson.jpg",
     "email": "miranda2@mit.edu"
-    },
-    {
-    "name": "Miriam Schwalm, PhD",
-    "bio": "Miriam focuses on application of novel imaging and recording techniques to study the brain-wide dynamics of neural activity.",
-    "img": "/assets/images/people/MiriamSchwalm.jpg",
-    },
-    {
-    "name": "Omozusi Guobadia",
-    "bio": "Mozi works on a collaborative project with the Anikeeva lab to adapt multimodal fiber technology for functional and molecular MRI.",
-    "img": "/assets/images/people/Mozi.jpg",
     },
     {  
     "name": "Sajal Sen, PhD",
