@@ -4,11 +4,6 @@
     "bio": "Alan is interested in mechanistic studies of neural function using brain-wide measurements and in tool development for molecular neuroimaging.",
     "img": "/assets/images/people/AlanJasanoff.jpg",
     "email": "jasanoff@mit.edu"
-   },
-   {
-    "name": "Andrew Becker",
-    "bio": "Andrew focuses on experimental procedures that permit combined behavior and imaging studies in rodents.",
-    "img": "/assets/images/people/AndrewBecker.jpg"
     },
     {
     "name": "Brenna Stallings",
@@ -38,12 +33,24 @@
     "email": "jk16@mit.edu"
     },
     {
+    "name": "Jingkai Wen",
+    "bio": "Jingkai has an MS in biomedical engineering and works on projects related to neural mechanisms of reward learning and attentional control in rodents and primates.",
+    "img": "/assets/images/people/JingkaiWen.jpg",
+    "email": "jingkaiw@mit.edu"
+    },
+    {
     "name": "Kevin Chung",
     "bio": "Kevin is interested in applying functional and molecular imaging for high resolution mapping of brain activity during behavior.",
     "img": "/assets/images/people/KevinChung.jpg",
     },
-    {
-    "name": "Miranda Dawson",
+    {       
+    "name": "Liza Whitmire",
+    "bio": "Liza is neuroscience graduate who works on applications of genetic imaging techniques to experience-dependent plasticity and learning in animals.",
+    "img": "/assets/images/people/LizaWhitmire.jpg",
+    "email": "whitmire@mit.edu"
+    },
+    {  
+    "name": "Miranda Dawson, PhD",
     "bio": "Miranda is a bioengineer working on novel strategies for genetic imaging and mapping plasticity related processes in the brain.",
     "img": "/assets/images/people/MirandaDawson.jpg",
     "email": "miranda2@mit.edu"
