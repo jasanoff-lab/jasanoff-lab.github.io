@@ -3,8 +3,8 @@
      "img": "assets/images/papers/2024.jpg", 
       "papers": [
       {
-       "citation":  "Ohlendorf R, Li N,Phi Van VD, Schwalm M, Ke Y, Dawson M, Jiang Y, Das S, Stallings B, Zheng WT, Jasanoff A (2024) “Imaging bioluminescence by detecting localized haemodynamic contrast from photosensitized vasculature.” Nat Biomed Eng, doi: 10.1038/s41551-024-01210-w.",
-        "url": "https://www.nature.com/articles/s41551-024-01210-w"
+       "citation":  "Bricault S, Dawson M, Lee J, Desai M, Schwalm M, Chung KS, DeTienne E, Fagan E, Li N, Becker A, Muthupalani S, Fränken JP, Pinotsis DA, Jasanoff A (2024) “Peripheral contributions to resting state brain dynamics..” Nat Commun 15, 10820 doi: 10.1038/s41467-024-55064-6.",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11685439/"
        },
        {
        "citation":  "Driscoll N, Antonini MJ,Cannon T,Maretich P, Olaitan G, Phi Van VD, Nagao K,Sahasrabudhe A, Paniagua EV,Frey EJ,Kim YJ,Hunt S,Hummel M,Mupparaju S,Jasanoff A,Venton BJ,Anikeeva P (2024) “Multifunctional Neural Probes Enable Bidirectional Electrical, Optical, and Chemical Recording and Stimulation In Vivo.” Adv Mater, 6:e2408154. doi: 10.1002/adma.202408154
