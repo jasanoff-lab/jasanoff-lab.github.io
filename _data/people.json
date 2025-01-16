@@ -55,12 +55,6 @@
     "img": "/assets/images/people/MirandaDawson.jpg",
     "email": "miranda2@mit.edu"
     },
-    {  
-    "name": "Sajal Sen, PhD",
-    "bio": "Sajal is a synthetic chemist who works on small molecule contrast agents for mechanistic MRI-based studies of brain function in health and disease.",
-    "img": "/assets/images/people/SajalSen.jpg",
-    "email": "sajalsen@mit.edu"   
-    },
     {
     "name": "Sara Modiano",
     "bio": "Sara is a biological engineer who works on design of second-generation sensors for circuit specific hemodynamic imaging.",
@@ -71,11 +65,6 @@
     "name": "Takashi Kaise, PhD",
     "bio": "Takashi is interested in developing and applying new protein-based tools for analysis of mammalian brain function.",
     "img": "/assets/images/people/TakashiKaise.png",   
-    },
-    {
-    "name": "Valerie Phi Van, MD",
-    "bio": "Valerie is a radiologist and preclinical MRI expert who is interested in using genetic probes to study molecular processes in animal models.",
-    "img": "/assets/images/people/ValeriePhivan.jpg",  
     },
     {
     "name": "Vinay Sharma, PhD",
