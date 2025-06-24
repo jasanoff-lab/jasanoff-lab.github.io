@@ -44,11 +44,6 @@
     "img": "/assets/images/people/JohanMedrano.jpeg",
     "email": "johmedr0@mit.edu"
     },
-    {
-    "name": "Kevin Chung",
-    "bio": "Kevin is interested in applying functional and molecular imaging for high resolution mapping of brain activity during behavior.",
-    "img": "/assets/images/people/KevinChung.jpg",
-    },
     {       
     "name": "Liza Whitmire",
     "bio": "Liza is neuroscience graduate who works on applications of genetic imaging techniques to experience-dependent plasticity and learning in animals.",
@@ -66,12 +61,6 @@
     "bio": "Samira is expanding the toolkit of nanoparticle-based MRI sensors for a variety of targets in the brain.",
     "img": "/assets/images/people/SamiraMohamed.jpg",
     "email": "samiramo@mit.edu"   
-    },
-    {
-    "name": "Sara Modiano",
-    "bio": "Sara is a biological engineer who works on design of second-generation sensors for circuit specific hemodynamic imaging.",
-    "img": "/assets/images/people/SaraModiano.jpeg",
-    "email": "smodiano@mit.edu"   
     },
     {
     "name": "Takashi Kaise, PhD",
