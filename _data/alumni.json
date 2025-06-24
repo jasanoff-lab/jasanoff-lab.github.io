@@ -30,7 +30,7 @@
   {
     "name": "Andrew Becker",
     "title": "Patient Coordinator",
-    "affiliation": "MIT-Tsai Lab",
+    "affiliation": "MIT",
   },
   {
     "name": "Sarah Bricault",
@@ -147,6 +147,11 @@
     "link": "https://www.vervetx.com/about-us/"
   },
   {
+    "name": "Sara Modiano",
+    "title": "Medical Student",
+    "affiliation": "Columbia Medical School",
+  },
+  {
     "name": "Robert Ohlendorf",
     "title": "Group Leader",
     "affiliation": "Max Planck Tübingen",
@@ -168,8 +173,8 @@
   },
   {
     "name": "Sajal Sen",
-    "title": "Postdoc Fellow",
-    "affiliation": "OHSU",
+    "title": "Postdoc",
+    "affiliation": "Oregon Health & Science University",
   },
   {
     "name": "Mikhail Shapiro",
