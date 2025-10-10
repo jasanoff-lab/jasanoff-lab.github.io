@@ -1,9 +1,17 @@
 {
+    "2025": {
+     "img": "assets/images/papers/2024.png", 
+      "papers": [
+      {
+       "citation":  "Sen S, Dawson M, Thiabaud G, Backman K, Fayer I, Das S, Whitmire E, Kung C, Barandov A, Jasanoff A (2025) “A molecular probe for detecting cholinesterase activity in MRI.” Proc Natl Acad Sci, 122 (41) e2504547122. doi: 10.1073/pnas.2504547122",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2504547122?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed"
+       },
+       {
   "2024": {
      "img": "assets/images/papers/2024.jpg", 
       "papers": [
       {
-       "citation":  "Bricault S, Dawson M, Lee J, Desai M, Schwalm M, Chung KS, DeTienne E, Fagan E, Li N, Becker A, Muthupalani S, Fränken JP, Pinotsis DA, Jasanoff A (2024) “Peripheral contributions to resting state brain dynamics..” Nat Commun 15, 10820 doi: 10.1038/s41467-024-55064-6.",
+       "citation":  "Bricault S, Dawson M, Lee J, Desai M, Schwalm M, Chung KS, DeTienne E, Fagan E, Li N, Becker A, Muthupalani S, Fränken JP, Pinotsis DA, Jasanoff A (2024) “Peripheral contributions to resting state brain dynamics.” Nat Commun 15, 10820 doi: 10.1038/s41467-024-55064-6.",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11685439/"
        },
        {
