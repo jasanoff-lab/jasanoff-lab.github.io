@@ -32,11 +32,6 @@
     "title": "Patient Coordinator",
     "affiliation": "MIT",
   },
-  {
-    "name": "Sarah Bricault",
-    "title": "Postdoc",
-    "affiliation": "Harvard/MGH",
-  },
   { 
     "name": "Hippolyte Bournisien de Valmont",
     "title": "Scientific Application Specialist",
@@ -63,6 +58,11 @@
     "name": "Sayani Das",
     "title": "Senior Scientist",
     "affiliation": "Merck",
+  },
+  {
+    "name": "Miranda Dawson",
+    "title": "Postdoc associate",
+    "affiliation": "MIT",
   },
   {
     "name": "Mitul Desai",
