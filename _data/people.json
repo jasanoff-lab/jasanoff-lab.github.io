@@ -16,6 +16,11 @@
     "img": "/assets/images/people/DianeBallestas.jpg"
     },
     {
+    "name": "Ethan Wang",
+    "bio": "Ethan is a BME major who is now involved in research on learning phenomena using neuroimaging techniques and genetic probes.",
+    "img": "/assets/images/people/Ethan Wang.png"
+    },
+    {
     "name": "Firas Mawase, PhD",
     "bio": "Firas is a visiting faculty member from The Technion with expertise in the neurobiology of motor processing and control.",
     "img": "/assets/images/people/FirasMawasi.png"
@@ -92,5 +97,12 @@
     "name": "Yuting Ke, PhD",
     "bio": "Yuting works on genetically encoded fMRI probes and applying them to cellular and circuit-level neuroimaging in animals.",
     "img": "/assets/images/people/YutingKe.jpeg",
+    },
+    {
+    "name": "Zaira Rehman",
+    "bio": "Zaira brings has a background in biology and psychology and works on projects related to the reward system and its broader interactions.",
+    "img": "/assets/images/people/ZairaRehman.jpg",
+
+      
   }
 ]
