@@ -26,6 +26,11 @@
     "img": "/assets/images/people/FirasMawasi.png"
     },
     {
+    "name": "Hoonwon Lee, PhD",
+    "bio": "Hoonwon is studying brain-wide mechanisms of learning and memory using functional and molecular neuroimaging in rodents.",
+    "img": "/assets/images/people/HoonwonLee.jpeg"
+    },
+    {
     "name": "Itay Fayer",
     "bio": "Itay is interested in studying brain-periphery interactions using a range of MRI-based readouts in animals.",
     "img": "/assets/images/people/ItayFayer.jpg",
@@ -36,12 +41,6 @@
     "bio": "JK is exploring noninvasive delivery strategies for applying molecular imaging probes in mammalian brains.",
     "img": "/assets/images/people/JKKo.jpg",
     "email": "jk16@mit.edu"
-    },
-    {
-    "name": "Jingkai Wen",
-    "bio": "Jingkai has an MS in biomedical engineering and works on projects related to neural mechanisms of reward learning and attentional control in rodents and primates.",
-    "img": "/assets/images/people/JingkaiWen.jpg",
-    "email": "jingkaiw@mit.edu"
     },
     {
     "name": "Johan Medrano, PhD",
@@ -56,12 +55,6 @@
     "email": "jchung68@mit.edu"
     },
     {       
-    "name": "Liza Whitmire",
-    "bio": "Liza is neuroscience graduate who works on applications of genetic imaging techniques to experience-dependent plasticity and learning in animals.",
-    "img": "/assets/images/people/LizaWhitmire.jpg",
-    "email": "whitmire@mit.edu"
-    },
-    {
     "name": "Samira Mohammed Abozeid, PhD",
     "bio": "Samira is expanding the toolkit of nanoparticle-based MRI sensors for a variety of targets in the brain.",
     "img": "/assets/images/people/SamiraMohamed.jpg",
